@@ -87,7 +87,7 @@ int main() {
 
 Insertion sort
 
-Idea: Start at position 1 and move each element to the left until it is in the correct place
+Begin at position 1 and move each element to the left until it is in the correct place
 At iteration i, the leftmost i elements are in sorted order.
 Sorts list by moving each element to its proper place.
 Efficient for sorting small numbers.
